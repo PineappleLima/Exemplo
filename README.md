@@ -5,4 +5,11 @@ Primeiro teste
 Segundo teste
 
 ### Exemplo 3
-<title> OI </title>
+md
+<div align="center">
+
+# 👋 Olá, eu sou o TEU_NOME!
+
+### 💻 Developer | 🚀 Tech Enthusiast | 🎯 Always Learning
+
+</div>
